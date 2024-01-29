@@ -1,0 +1,14 @@
+main.continer.flex{
+  width: 70rem;
+  margin-left: auto;
+  margin-right: 15rem;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 10%;
+}
+main.continer .left_section,
+main.continer .right_section{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
